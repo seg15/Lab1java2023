@@ -1,0 +1,5 @@
+System.out.println("Ciresica are mere")
+
+mere=input(int("Cate mere sunt in cos?"))
+
+print("In cos sunt ",mere , "mere")
