@@ -2,7 +2,8 @@ package lab4;
 
 public class octombrielab {
     public static void main(String[] args) {
-        pro("tractori");
+
+        doi(1048);
     }
 
     public static void pro(String cuvant) {
@@ -15,6 +16,14 @@ public class octombrielab {
         }
         else{
             System.out.println(cuvant.charAt(lungime/2));
+        }
+    }
+
+    public static void doi(int nr){
+        while(nr>0){
+            System.out.println(nr%10);
+            nr/=10;
+
         }
     }
 }
