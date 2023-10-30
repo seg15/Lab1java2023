@@ -2,8 +2,13 @@ package lab4;
 
 public class octombrielab {
     public static void main(String[] args) {
+       Person person = new Person();
+       Profesor profesor = new Profesor();
+       Student student = new Student();
 
-        doi(1048);
+       person.setAge(10);
+        person.setName("Mihai");
+       person.setEmail("ceva@yahoo.ro");
     }
 
     public static void pro(String cuvant) {
