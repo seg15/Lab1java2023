@@ -1,9 +1,11 @@
 package lab3;
+import java.util.Scanner;
 
 public class Probleme {
     public static void main(String[] args) {
         problema1();
         problema2();
+
     }
 
     private static void problema1() {
@@ -27,5 +29,4 @@ public class Probleme {
             }
         }
     }
-
 }
