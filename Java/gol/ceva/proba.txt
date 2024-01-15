@@ -1,0 +1,1 @@
+{"nume":"cc","prenume":"cca","varsta":"20","gen":null}

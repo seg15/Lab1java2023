@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dad30b75-6636-47c8-a1a5-a7ff1d387411" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CARSS/Prpiect/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CARSS/Prpiect/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CARSS/Prpiect/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CARSS/Prpiect/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CARSS/Prpiect/src/main/java/org/example/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CARSS/Prpiect/src/main/java/org/example/My.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab09/.idea/lab09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Incercare/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Incercare/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Incercare/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Incercare/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Incercare/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Incercare/src/main/java/org/example/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Incercare/src/main/java/org/example/CarsFormGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Incercare/src/main/java/org/example/Form.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Incercare/src/main/java/org/example/Form.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Incercare/src/main/java/org/example/FormularUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/org/example/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/org/example/CarFormGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/org/example/FormularUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/org/example/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/main/java/org/example/FormularSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Lab1java2023/Java/lab09/.idea/lab09.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab7/P1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab3/Fibonnaci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab3/L3P2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab3/Probleme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab3/polin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab4/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab4/Profesor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab4/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab4/homework/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab4/homework/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab4/octombrielab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab4/rectangle/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab4/rectangle/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab5/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab6/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab6/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab6/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Lab1java2023/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/Lab1java2023/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../prob/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../prob/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2azeoO9JwLJpJUb7Qg2AIDQiHCY" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/Lab1java2023/Java/pppp2/gol/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dad30b75-6636-47c8-a1a5-a7ff1d387411" name="Changes" comment="" />
+      <created>1705326009200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705326009200</updated>
+      <workItem from="1705326010189" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
